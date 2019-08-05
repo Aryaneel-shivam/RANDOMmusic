@@ -1,0 +1,14 @@
+body { height:100%; margin:0; padding:0 }
+div { position:fixed; width:50%; height:50% }
+#main { top:0;   left:0;   background:white; }
+#main2 { top:0;   left:33.3%; background: white;   }
+#main3 { top:0;   left:66.6%; background:white;}
+#main4 { top:25%; left:0; background:white;}
+#main5 { top:25%; left:33.3%; background: white;}
+#main6 { top:25%; left:66.6%; background:white;}
+#main7 { top:50%;  left:0; background: white;}
+#main8 { top:50%; left:33.3%; background: white;}
+#main9 { top:50%; left:66.6%; background:white;}
+#main10 { top:75%; left:0; background:white;}
+#main11 { top:75%; left:33.3%; background:white;}
+#main12 { top:75%; left:66.6%; background:white; }
